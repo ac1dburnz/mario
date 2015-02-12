@@ -53,7 +53,7 @@ NOTE_E7, NOTE_E7, 0, NOTE_E7,
   0, 0, 0
 };
 
-int noteDurations[] = \{\
+int noteDurations[] = {
   12, 12, 12, 12,
   12, 12, 12, 12,
   12, 12, 12, 12,
